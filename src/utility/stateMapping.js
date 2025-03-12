@@ -1,0 +1,43 @@
+const stateMapping = {
+    "D": "Delhi",
+    "DEL": "Delhi",
+    "DE": "Delhi",
+    "HR": "Haryana",
+    "PB": "Punjab",
+    "CH": "Chandigarh",
+    "HP": "Himachal Pradesh",
+    "JK": "Jammu & Kashmir",
+    "LA": "Ladakh",
+    "UK": "Uttarakhand",
+    "MP": "Madhya Pradesh",
+    "CG": "Chhattisgarh",
+    "RJ": "Rajasthan",
+    "MH": "Maharashtra",
+    "GJ": "Gujarat",
+    "GA": "Goa",
+    "BR": "Bihar",
+    "JH": "Jharkhand",
+    "WB": "West Bengal",
+    "OR": "Odisha",
+    "AP": "Andhra Pradesh",
+    "TS": "Telangana",
+    "TN": "Tamil Nadu",
+    "KA": "Karnataka",
+    "KL": "Kerala",
+    "AS": "Assam",
+    "ML": "Meghalaya",
+    "MN": "Manipur",
+    "TR": "Tripura",
+    "MZ": "Mizoram",
+    "NL": "Nagaland",
+    "AR": "Arunachal Pradesh",
+    "SK": "Sikkim",
+    "PY": "Puducherry",
+    "AN": "Andaman & Nicobar Islands",
+    "LD": "Lakshadweep",
+    "DNH": "Dadra & Nagar Haveli and Daman & Diu"
+  };
+  
+  export default stateMapping;
+  
+  
